@@ -5,3 +5,5 @@ Repositório criado para o curso de princípios do git-github da DIO
 * Atenticação via token de acesso pessoal.
 
 * Autenticação via SSH.
+
+​	Testando a troca de URL de token para chave SSH.
